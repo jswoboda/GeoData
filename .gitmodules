@@ -1,3 +1,6 @@
 [submodule "matlab_version"]
 	path = matlab_version
 	url = https://github.com/jswoboda/GeoDataMATLAB.git
+[submodule "python_version"]
+	path = python_version
+	url = https://github.com/jswoboda/GeoDataPython.git
